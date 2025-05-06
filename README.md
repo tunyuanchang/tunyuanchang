@@ -15,6 +15,7 @@ I'm a master’s student at Institute of Information Systems and Applications, N
     <img src="https://skillicons.dev/icons?i=py,c,cpp,pytorch,tensorflow,cmake,linux,git,vim,java,html,css,js,matlab,raspberrypi,arduino,latex,gcp&theme=light&perline=9" />
   </a>
 </p>
+-->
 
 ## GitHub Stats
 <p align="center">
@@ -26,7 +27,7 @@ I'm a master’s student at Institute of Information Systems and Applications, N
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunyuanchang&theme=dark&card_width=500&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=tunyuanchang.github.io"
     alt="GitHub Top Language">
 </p>
--->
+
 ## Connect with Me
 <p align="center">
   <a href="https://github.com/tunyuanchang">
