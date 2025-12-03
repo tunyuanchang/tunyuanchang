@@ -33,9 +33,11 @@ I'm a master’s student at Institute of Information Systems and Applications, N
   <a href="https://github.com/tunyuanchang">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="mailto:tunyuan.tw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/tunyuanchang">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
