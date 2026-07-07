@@ -7,6 +7,7 @@
 
 ## About Me
 I'm a master’s student at Institute of Information Systems and Applications, National Tsing Hua University (NTHU).  
+You can find my CV [here](https://tunyuanchang.github.io/)!
 
 <!--
 ## Languages and Tools
@@ -19,12 +20,12 @@ I'm a master’s student at Institute of Information Systems and Applications, N
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tunyuanchang&theme=dark&card_width=500&show_icons=true&rank_icon=github" 
+  <img src="https://github-stats-extended.vercel.app/api?username=tunyuanchang&theme=dark&card_width=500&show_icons=true&rank_icon=github" 
     alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunyuanchang&theme=dark&card_width=500&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=tunyuanchang.github.io"
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tunyuanchang&theme=dark&card_width=500&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=tunyuanchang.github.io"
     alt="GitHub Top Language">
 </p>
 
